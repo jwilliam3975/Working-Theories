@@ -1,3 +1,5 @@
+DOI: 10.5281/zenodo.17385171
+
 # Working-Theories
 Working biblical exegesis theories by J William Gill
 
